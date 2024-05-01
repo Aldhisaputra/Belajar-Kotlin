@@ -5,9 +5,9 @@ Pendeklarasian fungsi pada Kotlin diawali dengan kata kunci (fun) kemudian dilan
 
 // Deklarasi fungsi
 fun main() {
-    greet("John") // Output: Hello, John!
+    greet("Aldhi")
 }
 
 fun greet(name: String) {
-    println("Hello, $name!")
+    println("Hello, $name")
 }
